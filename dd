@@ -1,0 +1,632 @@
+    ["0"] = {
+          ["Bow"] = 5,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["10"] = {
+          ["Bow"] = 5,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["20"] = {
+          ["Bow"] = 0,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["30"] = {
+          ["Bow"] = 1,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["40"] = {
+          ["Bow"] = 5,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["50"] = {
+          ["Bow"] = 4,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["60"] = {
+          ["Bow"] = 7,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 1,
+      },
+      ["70"] = {
+          ["Bow"] = 7,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 2,
+      },
+      ["80"] = {
+          ["Bow"] = 7,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 2,
+      },
+      ["90"] = {
+          ["Bow"] = 7,
+          ["M4A1"] = 1,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 2,
+      },
+      ["100"] = {
+          ["Bow"] = 9,
+          ["M4A1"] = 10,
+          ["SCAR"] = 1,
+          ["PipeSMG"] = 3,
+          ["USP9"] = 2,
+      },
+      ["110"] = {
+          ["Bow"] = 9,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 3,
+      },
+      ["120"] = {
+          ["Bow"] = 10,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 3,
+      },
+      ["130"] = {
+          ["Bow"] = 11,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 3,
+      },
+      ["140"] = {
+          ["Bow"] = 13,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 3,
+      },
+      ["150"] = {
+          ["Bow"] = 14,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 4,
+          ["USP9"] = 4,
+      },
+      ["160"] = {
+          ["Bow"] = 16,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 4,
+      },
+      ["170"] = {
+          ["Bow"] = 17,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 4,
+      },
+      ["180"] = {
+          ["Bow"] = 19,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 5,
+      },
+      ["190"] = {
+          ["Bow"] = 22,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 5,
+      },
+      ["200"] = {
+          ["Bow"] = 24,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 5,
+      },
+      ["210"] = {
+          ["Bow"] = 27,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 5,
+      },
+      ["220"] = {
+          ["Bow"] = 29,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 6,
+      },
+      ["230"] = {
+          ["Bow"] = 33,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 6,
+      },
+      ["240"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 6,
+      },
+      ["250"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 6,
+      },
+      ["260"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 7,
+      },
+      ["270"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 7,
+      },
+      ["280"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 9,
+          ["PipeSMG"] = 7,
+      },
+      ["290"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 10,
+          ["PipeSMG"] = 8,
+      },
+      ["300"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 10,
+          ["SCAR"] = 10,
+          ["PipeSMG"] = 8,
+      },
+      ["310"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 11,
+          ["SCAR"] = 10,
+          ["PipeSMG"] = 8,
+      },
+      ["320"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 11,
+          ["SCAR"] = 10,
+          ["PipeSMG"] = 9,
+      },
+      ["330"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 11,
+          ["SCAR"] = 11,
+          ["PipeSMG"] = 9,
+      },
+      ["340"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 11,
+          ["SCAR"] = 11,
+          ["PipeSMG"] = 9,
+      },
+      ["350"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 12,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 10,
+      },
+      ["360"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 12,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 10,
+      },
+      ["370"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 12,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 11,
+      },
+      ["380"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 13,
+          ["SCAR"] = 13,
+          ["PipeSMG"] = 11,
+      },
+      ["390"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 13,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 11,
+      },
+      ["400"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 13,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 12,
+      },
+      ["410"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 13,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 12,
+      },
+      ["420"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 15,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 13,
+      },
+      ["430"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 16,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 13,
+      },
+      ["440"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 16,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 14,
+      },
+      ["450"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 16,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 14,
+      },
+      ["460"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 17,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 15,
+      },
+      ["470"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 18,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 16,
+      },
+      ["480"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 19,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 16,
+      },
+      ["490"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 19,
+          ["SCAR"] = 12,
+          ["PipeSMG"] = 17,
+      },
+      ["500"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 20,
+          ["SCAR"] = 18,
+          ["PipeSMG"] = 17,
+      },
+      ["510"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 20,
+          ["SCAR"] = 18,
+          ["PipeSMG"] = 18,
+      },
+      ["520"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 21,
+          ["SCAR"] = 21,
+          ["PipeSMG"] = 19,
+      },
+      ["530"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 21,
+          ["SCAR"] = 21.5,
+          ["PipeSMG"] = 20,
+      },
+      ["540"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 21,
+          ["SCAR"] = 22,
+          ["PipeSMG"] = 21,
+      },
+      ["550"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 22,
+          ["SCAR"] = 22,
+          ["PipeSMG"] = 22,
+      },
+      ["560"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 23,
+          ["SCAR"] = 23,
+          ["PipeSMG"] = 23,
+      },
+      ["570"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 23,
+          ["SCAR"] = 23,
+          ["PipeSMG"] = 24,
+      },
+      ["580"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 24,
+          ["SCAR"] = 24,
+          ["PipeSMG"] = 25,
+      },
+      ["590"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 25,
+          ["SCAR"] = 24,
+      },
+      ["600"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 26,
+          ["SCAR"] = 26,
+      },
+      ["610"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 27,
+          ["SCAR"] = 27,
+      },
+      ["620"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 27,
+          ["SCAR"] = 27,
+      },
+      ["630"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 28,
+          ["SCAR"] = 28,
+      },
+      ["640"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 28,
+          ["SCAR"] = 28,
+      },
+      ["650"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 29,
+          ["SCAR"] = 29,
+      },
+      ["660"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 30,
+          ["SCAR"] = 30,
+      },
+      ["670"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 31,
+          ["SCAR"] = 31,
+      },
+      ["680"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 32,
+          ["SCAR"] = 32,
+      },
+      ["690"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 33,
+          ["SCAR"] = 33,
+      },
+      ["700"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 34,
+          ["SCAR"] = 34,
+      },
+      ["710"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 35,
+          ["SCAR"] = 35,
+      },
+      ["720"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 36,
+          ["SCAR"] = 36,
+      },
+      ["730"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 38,
+          ["SCAR"] = 38,
+      },
+      ["740"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 39,
+          ["SCAR"] = 39,
+      },
+      ["750"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 40,
+          ["SCAR"] = 40,
+      },
+      ["760"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 41,
+          ["SCAR"] = 41,
+      },
+      ["770"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 43,
+          ["SCAR"] = 43,
+      },
+      ["780"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 45,
+          ["SCAR"] = 45,
+      },
+      ["790"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 46,
+          ["SCAR"] = 46,
+      },
+      ["800"] = {
+          ["Bow"] = 38,
+          ["M4A1"] = 47,
+          ["SCAR"] = 47,
+      }
+  }
+  --Func
+  function Functions:DropDist(distance)
+      if distance <= 10 then
+          return "10"
+      elseif distance <= 20 then
+          return "20"
+      elseif distance <= 30 then
+          return "30"
+      elseif distance <= 40 then
+          return "40"
+      elseif distance <= 50 then
+          return "50"
+      elseif distance <= 60 then
+          return "60"
+      elseif distance <= 70 then
+          return "70"
+      elseif distance <= 80 then
+          return "80"
+      elseif distance <= 90 then
+          return "90"
+      elseif distance <= 100 then
+          return "100"
+      elseif distance <= 110 then
+          return "110"
+      elseif distance <= 120 then
+          return "120"
+      elseif distance <= 130 then
+          return "130"
+      elseif distance <= 140 then
+          return "140"
+      elseif distance <= 150 then
+          return "150"
+      elseif distance <= 160 then
+          return "160"
+      elseif distance <= 170 then
+          return "170"
+      elseif distance <= 180 then
+          return "180"
+      elseif distance <= 190 then
+          return "190"
+      elseif distance <= 200 then
+          return "200"
+      elseif distance <= 210 then
+          return "210"
+      elseif distance <= 220 then
+          return "220"
+      elseif distance <= 230 then
+          return "230"
+      elseif distance <= 240 then
+          return "240"
+      elseif distance <= 250 then
+          return "250"
+      elseif distance <= 260 then
+          return "260"
+      elseif distance <= 270 then
+          return "270"
+      elseif distance <= 280 then
+          return "280"
+      elseif distance <= 290 then
+          return "290"
+      elseif distance <= 300 then
+          return "300"
+      elseif distance <= 310 then
+          return "310"
+      elseif distance <= 320 then
+          return "320"
+      elseif distance <= 330 then
+          return "330"
+      elseif distance <= 340 then
+          return "340"
+      elseif distance <= 350 then
+          return "350"
+      elseif distance <= 360 then
+          return "360"
+      elseif distance <= 370 then
+          return "370"
+      elseif distance <= 380 then
+          return "380"
+      elseif distance <= 390 then
+          return "390"
+      elseif distance <= 400 then
+          return "400"
+      elseif distance <= 410 then
+          return "410"
+      elseif distance <= 420 then
+          return "420"
+      elseif distance <= 430 then
+          return "430"
+      elseif distance <= 440 then
+          return "440"
+      elseif distance <= 450 then
+          return "450"
+      elseif distance <= 460 then
+          return "460"
+      elseif distance <= 470 then
+          return "470"
+      elseif distance <= 480 then
+          return "480"
+      elseif distance <= 490 then
+          return "490"
+      elseif distance <= 500 then
+          return "500"
+      elseif distance <= 510 then
+          return "510"
+      elseif distance <= 520 then
+          return "520"
+      elseif distance <= 530 then
+          return "530"
+      elseif distance <= 540 then
+          return "540"
+      elseif distance <= 550 then
+          return "550"
+      elseif distance <= 560 then
+          return "560"
+      elseif distance <= 570 then
+          return "570"
+      elseif distance <= 580 then
+          return "580"
+      elseif distance <= 590 then
+          return "590"
+      elseif distance <= 600 then
+          return "600"
+      elseif distance <= 610 then
+          return "610"
+      elseif distance <= 620 then
+          return "620"
+      elseif distance <= 630 then
+          return "630"
+      elseif distance <= 640 then
+          return "640"
+      elseif distance <= 650 then
+          return "650"
+      elseif distance <= 660 then
+          return "660"
+      elseif distance <= 670 then
+          return "670"
+      elseif distance <= 680 then
+          return "680"
+      elseif distance <= 690 then
+          return "690"
+      elseif distance <= 700 then
+          return "700"
+      elseif distance <= 710 then
+          return "710"
+      elseif distance <= 720 then
+          return "720"
+      elseif distance <= 730 then
+          return "730"
+      elseif distance <= 740 then
+          return "740"
+      elseif distance <= 750 then
+          return "750"
+      elseif distance <= 760 then
+          return "760"
+      elseif distance <= 770 then
+          return "770"
+      elseif distance <= 780 then
+          return "780"
+      elseif distance <= 790 then
+          return "790"
+      elseif distance <= 800 then
+          return "800"
+      else 
+          return "800"
+      end
